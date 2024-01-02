@@ -47,7 +47,3 @@ To replicate the strategy, follow these steps:
 ## Note
 
 This is the initial version of the trading strategy, and further improvements are envisioned, including incorporating real-time data and developing an application for portfolio optimization on platforms like Yahoo Finance.
-
-## Disclaimer
-
-This trading strategy is for educational purposes only and should not be considered financial advice. Past performance is not indicative of future results. Use caution and consult with financial professionals before making investment decisions.
